@@ -1,5 +1,5 @@
 # Stevens-PhD-Thesis-Dissertation-Template-2021
-<h2>LaTeX Template Thesis 2021 for Stevens Institute of Technology</h2>
+<h2>LaTeX Thesis Template 2021 for Stevens Institute of Technology</h2>
 
 * Stevens Thesis/Dissertation Template is licensed under a Creative Commons Attribution 3.0 Unported License.
 
